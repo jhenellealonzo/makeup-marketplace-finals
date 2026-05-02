@@ -1,0 +1,139 @@
+[
+    {
+        "id": 1,
+        "name": "Matte Lipstick",
+        "price": 499,
+        "category": "Makeup",
+        "description": "Long-lasting matte finish",
+        "seller": "Beauty Glow Shop",
+        "postedDate": "2024-06-15"
+    },
+    {
+        "id": 2,
+        "name": "Liquid Eyeliner",
+        "price": 399,
+        "category": "Makeup",
+        "description": "Waterproof black eyeliner",
+        "seller": "Beauty Glow Shop",
+        "postedDate": "2024-06-20"
+    },
+    {
+        "id": 3,
+        "name": "Blush Powder",
+        "price": 349,
+        "category": "Powder",
+        "description": "Soft pink blush",
+        "seller": "Glow Cosmetics",
+        "postedDate": "2024-06-18"
+    },
+    {
+        "id": 4,
+        "name": "Foundation",
+        "price": 255,
+        "category": "Makeup",
+        "description": "Lightweight w/natural coverage",
+        "seller": "Beauty Glow Shop",
+        "postedDate": "2024-06-22"
+    },
+    {
+        "id": 5,
+        "name": "Eyeshadow Palette",
+        "price": 1399,
+        "category": "Makeup",
+        "description": "Nude, matte, shimmer.",
+        "seller": "Sephora Shop",
+        "postedDate": "2024-06-25"
+    },
+    {
+        "id": 6,
+        "name": "Mascara",
+        "price": 450,
+        "category": "Makeup",
+        "description": "For longer and fuller lashes",
+        "seller": "Glow Cosmetics",
+        "postedDate": "2024-06-28"
+    },
+    {
+        "id": 7,
+        "name": "Setting Spray",
+        "price": 520,
+        "category": "Makeup",
+        "description": "Keeps makeup fresh.",
+        "seller": "Sephora Shop",
+        "postedDate": "2024-06-30"
+    },
+    {
+        "id": 8,
+        "name": "Brow Pencil",
+        "price": 299,
+        "category": "Makeup",
+        "description": "For defined and natural brows",
+        "seller": "Beauty Glow Shop",
+        "postedDate": "2024-07-02"
+    },
+    {
+        "id": 9,
+        "name": "Highlighter",
+        "price": 410,
+        "category": "Powder",
+        "description": "For a radiant glowing finish",
+        "seller": "Glow Cosmetics",
+        "postedDate": "2024-07-05"
+    },
+    {
+        "id": 10,
+        "name": "Makeup Brush Set",
+        "price": 1199,
+        "category": "Makeup",
+        "description": "Complete set of brushes",
+        "seller": "Sephora Shop",
+        "postedDate": "2024-07-10",
+        "premiumProducts": true
+
+    },
+    {
+        "id": 11,
+        "name": "Face Powder",
+        "price": 300,
+        "category": "Powder",
+        "description": "Smooth face powder for daily use",
+        "seller": "Glow Cosmetics",
+        "postedDate": "2024-07-12"
+    },
+    {
+        "id": 12,
+        "name": "Lip Gloss",
+        "price": 350,
+        "category": "Makeup",
+        "description": "Glossy lip shine for everyday look",
+        "seller": "Beauty Glow Shop",
+        "postedDate": "2024-07-14"
+    },
+    {
+        "id": 13,
+        "name": "Contour Kit",
+        "price": 950,
+        "category": "Makeup",
+        "description": "Contour kit for defined facial features",
+        "seller": "Sephora Shop",
+        "postedDate": "2024-07-16"
+    },
+    {
+        "id": 14,
+        "name": "Loose Powder",
+        "price": 480,
+        "category": "Powder",
+        "description": "Light loose powder for smooth finish",
+        "seller": "Glow Cosmetics",
+        "postedDate": "2024-07-18"
+    },
+    {
+        "id": 15,
+        "name": "Makeup Remover",
+        "price": 600,
+        "category": "Skincare",
+        "description": "Gentle makeup remover for all skin",
+        "seller": "Beauty Glow Shop",
+        "postedDate": "2024-07-20"
+    }
+]
